@@ -1,0 +1,25 @@
+{
+  "hash": "b56b1f20",
+  "configHash": "e13d06ec",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "437840af",
+  "optimized": {
+    "firebase/app": {
+      "src": "../../-googlemaps/node_modules/firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "ae8a2ddf",
+      "needsInterop": false
+    },
+    "firebase/firestore/lite": {
+      "src": "../../-googlemaps/node_modules/firebase/firestore/lite/dist/esm/index.esm.js",
+      "file": "firebase_firestore_lite.js",
+      "fileHash": "048b59d6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DG4IQ6JV": {
+      "file": "chunk-DG4IQ6JV.js"
+    }
+  }
+}
