@@ -1,9 +1,9 @@
 {
-  "homepage": "https://danimber.github.io/googlemaps/",
+  "homepage": "https://ruka.github.io/googlemaps/",
   "files": [],
   "license": "Apache-2.0",
   "scripts": {
-    "deploy": "gh-pages -d build+",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "start": "vite",
     "build": "vite build --outDir dist --base './'",
