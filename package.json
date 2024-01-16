@@ -1,24 +1,9 @@
 {
-  "name": "map-latlng-literal",
-  "description": "Samples for Google Maps JavaScript",
-  "version": "2.1.4",
-  "keywords": [
-    "google",
-    "javascript",
-    "maps",
-    "samples"
-  ],
-  "homepage": "https://github.com/googlemaps/js-samples#readme",
-  "bugs": {
-    "url": "https://github.com/googlemaps/js-samples/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/googlemaps/js-samples.git"
-  },
+  "homepage": "https://danimber.github.io/googlemaps/",
   "files": [],
   "license": "Apache-2.0",
   "scripts": {
+    "deploy": "gh-pages -d build+",
     "dev": "vite",
     "start": "vite",
     "build": "vite build --outDir dist --base './'",
